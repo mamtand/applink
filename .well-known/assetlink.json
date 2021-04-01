@@ -1,0 +1,9 @@
+[{
+  "relation": ["xyz"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "anc",
+    "sha256_cert_fingerprints":
+    ["absdhjs"]
+  }
+}]
